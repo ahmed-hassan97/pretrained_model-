@@ -17,6 +17,9 @@ In this section you will know More bout this interesting project :smiley:
 - [License](#license)
 
 ---
+## To look out your model use this api in keras
+
+                     model.summary()
 
 ## Description :point_left:
 
