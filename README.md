@@ -39,7 +39,7 @@ This is Transfer learning
 
 1- you should download pretrained model weight 
 
-- link https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
+- link  https://storage.googleapis.com/mledu-datasets/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
 
 2- use this api in keras to acess this model
 
@@ -63,7 +63,15 @@ This is Transfer learning
 
 To download click Here :point_down:
 
-[download](link https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip)
+[download] cat and dog dataset
+
+  (link https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip)
+  
+[download] horse and human dataset
+
+- train  (link https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip  
+
+- validation (link https://storage.googleapis.com/laurencemoroney-blog.appspot.com/validation-horse-or-human.zip  
 
 - how to use it :open_mouth:
 
