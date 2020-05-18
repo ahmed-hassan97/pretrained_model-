@@ -73,6 +73,12 @@ To download click Here :point_down:
 
 - validation (link https://storage.googleapis.com/laurencemoroney-blog.appspot.com/validation-horse-or-human.zip  
 
+[download] Sign Language MNIST
+
+  (link https://www.kaggle.com/datamunge/sign-language-mnist?)
+  
+---  
+
 - how to use it :open_mouth:
 
 - after download data 
